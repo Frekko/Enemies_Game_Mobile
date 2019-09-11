@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1783217055, guid: 3a092d701c8054009a5ccc1b8caf500b, type: 3}
+  m_Name: Settings
+  m_EditorClassIdentifier: 
+  DontDestroyOnLoad: 1
+  AutoSetVersion: 0
+  GameVersion: 0.103
+  EnableIfDefined: 
+  DisableIfDefined: FINAL_BUILD
+  OnlyInDevBuilds: 0
+  ShowOnException: 0
+  TouchDetector: 2
+  OpenAndCloseKeys: "~\\`|\xA7\xB1\u0451"
+  ShowSeparateExceptionButton: 1
+  ShowSeparateAssertButton: 0
+  DisableUGUIWhenOpen: 1
+  PauseGameWhenOpen: 0
+  ShowRecentCommands: 1
+  DefaultToEmailAddress: 
+  EditorScaleFactor: 1
+  MobileScaleFactorPortrait: 0.8
+  MobileScaleFactorLandscape: 0.5
+  StandaloneScaleFactor: 1
+  LogScreenshotCaptureMode: 2

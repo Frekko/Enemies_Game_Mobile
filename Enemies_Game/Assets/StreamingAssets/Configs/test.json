@@ -1,0 +1,14 @@
+{	
+	"Configs":
+	[
+		{
+			"Id":"test",
+			"Properties":
+			[
+				{"k" :"test", "v":[10, 20, 23]},
+				{"k" :"test2", "v":[11, 22, 25]},
+				{"k" :"testString", "v":["a", "b", "c"]}
+			]			
+		}
+	]
+}
